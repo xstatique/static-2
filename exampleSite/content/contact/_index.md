@@ -1,5 +1,5 @@
 ---
-title: Buchungsformular
+title: Buchungs
 subtitle: ''
 description: This is meta description
 
