@@ -8,15 +8,16 @@ banner:
     Ganz bequem, ganz billig, ganz einfach.
   button:
     enable: true
-    label: Buchen Sie Jetzt Einen Parkplatz!
-    link: "/contact/"
+    label: Jezt Buchen
+    link: contact
 feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Kostenfreie Stornierung
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Ihre Reservierung können Sie bis zu 24 Stunden vor Anreise kostenfrei
+      stornieren.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
