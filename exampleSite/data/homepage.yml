@@ -28,9 +28,10 @@ feature:
     icon: ti-alarm-clock
     content: Hat sich etwas unerwartet geändert? Haben Sie Fragen? Wir beraten Ihnen
       ganz persönlich.
-  - name: Faster Response
+  - name: Dynamisch und Lösungsorientiert
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Wir beobachten die Flüge im Falle von Verspätungen und sind pünktlich
+      da, um Sie nicht warten zu lassen.
   - name: Anti-Covid Maßnahmen
     icon: ti-cloud-up
     content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert. '
