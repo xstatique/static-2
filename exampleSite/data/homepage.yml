@@ -40,15 +40,14 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Wie geht das? Wie ist der Ablauf?
+  - title: Wie geht das? <br>Wie ist der Ablauf?
     images: []
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      Waren Sie noch nie bei uns? Kein Problem! <br>
+      Im folgenden erklären wir den ganzen Ablauf in 3 einfache Schritte.<br>
+      Sie werden es lieben. ❤︎
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Sie parken Ihr Auto auf unserem Parkplatz
