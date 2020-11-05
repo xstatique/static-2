@@ -70,9 +70,12 @@ service:
   - title: Wir fahren Ihnen zum Flughafen
     images:
     - images/service-2.png
-    content: Nachdem wir Ihr Gepäck geladen haben, fahren wir Sie mit unserem Shuttle
-      zum Flughafen. Dies dauert ungefähr 15 Minuten und wir bringen Sie direkt vor
-      Ihr Terminal. Wir wünschen Ihnen einen schönen Flug!
+    content: "Nachdem wir Ihr Gepäck geladen haben, fahren wir Sie mit unserem Shuttle
+      zum Flughafen. Sollte noch eine zweite Gruppe auch zum gleichen Zeitpunkt einen
+      Parkplatz gebucht haben, so kann es sein, dass man auch auf diese Gruppe wartet
+      bevor man Sie zum Flughafen fährt. Der Transfer zum Flughafen dauert ungefähr
+      15 Minuten und wir bringen Sie direkt vor Ihr Terminal. Wir wünschen Ihnen einen
+      schönen Flug! \n"
     button:
       enable: false
       label: Check it out
