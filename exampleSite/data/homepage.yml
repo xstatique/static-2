@@ -18,21 +18,21 @@ feature:
     icon: ti-pulse
     content: Ihre Reservierung können Sie bis zu 24 Stunden vor Anreise kostenfrei
       stornieren.
-  - name: 24h Service
-    icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Langjährige Erfahrung
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Online oder Barzahlung
     icon: ti-credit-card
     content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort
+  - name: Langjährige Erfahrung
+    icon: ti-package
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: 24h Service
+    icon: ti-alarm-clock
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Anti-Covid Maßnahmen
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Unsere Transporter sind sauber und werden regelmäßig desinfektiert.
 service:
   enable: true
   service_item:
