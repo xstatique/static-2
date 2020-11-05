@@ -96,10 +96,11 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Sind Sie bereit zu parken und fliegen?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: |-
+    Füllen Sie das Buchungsformular aus und fertig! <br>
+    Keine Verpflichtungen, Sie können die Reservierung bis zu vor 24 Stunden vor Anreise kostenlost kündigen.
   button:
     enable: true
     label: Contact Us
