@@ -61,7 +61,7 @@ footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristiqu
 logo = "images/mpf24-logo.png"
 logo_width = "200px"
 [params.navigation_button]
-enable = true
+enable = false
 label = "Jetzt Buchen"
 link = "contact"
 [[params.plugins.css]]
