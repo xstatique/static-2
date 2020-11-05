@@ -23,7 +23,8 @@ feature:
     content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort.
   - name: Langjährige Erfahrung
     icon: ti-package
-    content: Freundlich, pünktlich und sicher. Sie arbeiten mit den Besten im Geschäft.
+    content: Freundlich, pünktlich und sicher. <br>Sie arbeiten mit den Besten im
+      Geschäft.
   - name: Kundenservice
     icon: ti-alarm-clock
     content: Hat sich etwas unerwartet geändert? <br> Haben Sie Fragen? <br> Wir beraten
