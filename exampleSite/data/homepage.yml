@@ -44,7 +44,7 @@ service:
     images: []
     content: |-
       Waren Sie noch nie bei uns? Kein Problem! <br>
-      Im folgenden erklären wir den ganzen Ablauf in 3 einfache Schritte.<br>
+      Im folgenden erklären wir den ganzen Ablauf in 3 einfachen Schritten.<br>
     button:
       enable: false
       label: Check it out
