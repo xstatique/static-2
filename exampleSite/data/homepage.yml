@@ -83,13 +83,11 @@ service:
   - title: A company standing different from others
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      Nachdem Ihr Flugzeug gelandet ist, wartet ein Fahrer auf Ihre Bestätigung, dass Sie Ihr Gepäck abgeholt haben. Das ist wichtig, weil die Zeit bis zum Abholen des Gepäcks variiert stark zwischen den Flügen. Erst jetzt können wir Sie in die Abholliste setzen und bescheidgeben ob der Fahrer schon auf Sie wartet oder noch unterwegs ist. Wir beobachten die Flüge im Falle von Verzögerungen, das heißt unsere Mitarbeiter werden bereits informiert sein.
+      Wir fahren Sie dann zurück zu Ihrem Auto und geben die Schlüssel zurück. Bis zum nächsten mal!
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
