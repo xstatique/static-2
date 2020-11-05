@@ -80,11 +80,11 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Wir holen Sie ab und fahren Sie zurück zum Parkplatz
     images:
     - images/service-3.png
     content: |-
-      Nachdem Ihr Flugzeug gelandet ist, wartet ein Fahrer auf Ihre Bestätigung, dass Sie Ihr Gepäck abgeholt haben. Das ist wichtig, weil die Zeit bis zum Abholen des Gepäcks variiert stark zwischen den Flügen. Erst jetzt können wir Sie in die Abholliste setzen und bescheidgeben ob der Fahrer schon auf Sie wartet oder noch unterwegs ist. Wir beobachten die Flüge im Falle von Verzögerungen, das heißt unsere Mitarbeiter werden bereits informiert sein.
+      Nachdem Ihr Flugzeug gelandet ist, wartet ein Fahrer auf Ihre Bestätigung, dass Sie Ihr Gepäck abgeholt haben. Das ist wichtig, weil die Zeit bis zum Abholen des Gepäcks stark zwischen den Flügen variiert. Dann setzen wir Sie in die Abholliste und geben Bescheid ob der Fahrer schon auf Sie wartet oder noch unterwegs ist. Wir beobachten die Flüge im Falle von Verzögerungen.
       Wir fahren Sie dann zurück zu Ihrem Auto und geben die Schlüssel zurück. Bis zum nächsten mal!
     button:
       enable: false
