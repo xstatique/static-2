@@ -15,7 +15,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: Kostenfreie Stornierung
-    icon: ti-pulse
+    icon: ti-heart
     content: Ihre Reservierung können Sie bis zu 24 Stunden vor Anreise kostenfrei
       stornieren.
   - name: Online & Barzahlung
