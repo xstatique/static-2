@@ -65,7 +65,7 @@ service:
       link: "#"
   - title: Wir fahren Ihnen zum Flughafen
     images:
-    - images/woman-with-luggage-traveling-by-plane-girl-going-vacation-abstract-background_106612-284.jpg
+    - "/images/line-travelers-check-desk-airport_179970-1123.jpg"
     content: "Nachdem wir Ihr Gepäck geladen haben, fahren wir Sie mit unserem Shuttle
       zum Flughafen. Sollte noch eine zweite Gruppe auch zum gleichen Zeitpunkt einen
       Parkplatz gebucht haben, so kann es sein, dass man auch auf diese Gruppe wartet
@@ -78,7 +78,7 @@ service:
       link: "#"
   - title: Wir holen Sie ab und fahren Sie zurück zum Parkplatz
     images:
-    - images/service-3.png
+    - images/woman-with-luggage-traveling-by-plane-girl-going-vacation-abstract-background_106612-284.jpg
     content: |-
       Nachdem Ihr Flugzeug gelandet ist, wartet ein Fahrer auf Ihre Bestätigung, dass Sie Ihr Gepäck abgeholt haben. Das ist wichtig, weil die Zeit bis zum Abholen des Gepäcks stark zwischen den Flügen variiert. Dann setzen wir Sie in die Abholliste und geben Bescheid ob der Fahrer schon auf Sie wartet oder noch unterwegs ist. Wir beobachten die Flüge im Falle von Verzögerungen.
       Wir fahren Sie dann zurück zu Ihrem Auto und geben die Schlüssel zurück. Bis zum nächsten mal!
