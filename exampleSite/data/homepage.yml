@@ -23,16 +23,17 @@ feature:
     content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort
   - name: Langjährige Erfahrung
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Freundlich, pünktlich und sicher. Sie arbeiten mit den Besten im Geschäft.
   - name: Kundenservice
     icon: ti-alarm-clock
-    content: Haben Sie Fragen? Wir beraten Ihnen ganz persönlich.
+    content: Hat sich etwas unerwartet geändert? Haben Sie Fragen? Wir beraten Ihnen
+      ganz persönlich.
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Anti-Covid Maßnahmen
     icon: ti-cloud-up
-    content: Unsere Transporter sind sauber und werden regelmäßig desinfektiert.
+    content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert. '
 service:
   enable: true
   service_item:
