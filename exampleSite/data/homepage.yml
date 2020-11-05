@@ -22,15 +22,15 @@ feature:
     icon: ti-credit-card
     content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort.
   - name: Langjährige Erfahrung
-    icon: ti-package
+    icon: ti-cup
     content: Freundlich, pünktlich und sicher. <br>Sie arbeiten mit den Besten im
       Geschäft.
   - name: Kundenservice
-    icon: ti-alarm-clock
+    icon: ti-headphone-alt
     content: Hat sich etwas unerwartet geändert? <br> Haben Sie Fragen? <br> Wir beraten
       Ihnen ganz persönlich.
   - name: Dynamisch und Lösungsorientiert
-    icon: ti-headphone-alt
+    icon: ti-alarm-clock
     content: Wir beobachten die Flüge im Falle von Verspätungen und sind pünktlich
       da, um Sie nicht warten zu lassen.
   - name: Anti-Covid Maßnahmen
