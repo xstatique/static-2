@@ -18,9 +18,9 @@ feature:
     icon: ti-pulse
     content: Ihre Reservierung können Sie bis zu 24 Stunden vor Anreise kostenfrei
       stornieren.
-  - name: Online oder Barzahlung
+  - name: Online & Barzahlung
     icon: ti-credit-card
-    content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort
+    content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort.
   - name: Langjährige Erfahrung
     icon: ti-package
     content: Freundlich, pünktlich und sicher. Sie arbeiten mit den Besten im Geschäft.
