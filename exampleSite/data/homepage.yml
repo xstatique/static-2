@@ -57,10 +57,10 @@ service:
   - title: Sie parken Ihr Auto auf unserem Parkplatz
     images:
     - images/service-1.png
-    content: Fahren Sie mit Ihrem Auto in Dieselstraße 29, Eching. Unser Personal
-      zeigt Ihnen, wo Sie Ihr Auto parken können und hilft Ihnen beim Entladen Ihres
-      Gepäcks. Sie übergeben Ihre Schlüssel, die in unseren Schließfächern sicher
-      aufbewahrt werden.
+    content: |-
+      Fahren Sie mit Ihrem Auto in Dieselstraße 29, Eching. <br>
+      Unser Personal zeigt Ihnen, wo Sie Ihr Auto parken können und hilft Ihnen beim Entladen Ihres Gepäcks. <br>
+      Sie übergeben Ihre Schlüssel, die in unseren Schließfächern sicher aufbewahrt werden.
     button:
       enable: true
       label: Check it out
