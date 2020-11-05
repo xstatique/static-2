@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo Title"
+title = "MyPark&Fly24"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
