@@ -12,7 +12,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Was macht uns besonders
+  title: Was macht uns besonders.
   feature_item:
   - name: Kostenfreie Stornierung
     icon: ti-heart
