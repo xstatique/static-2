@@ -62,7 +62,7 @@ service:
       Unser Personal zeigt Ihnen, wo Sie Ihr Auto parken können und hilft Ihnen beim Entladen Ihres Gepäcks. <br>
       Sie übergeben Ihre Schlüssel, die in unseren Schließfächern sicher aufbewahrt werden.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
