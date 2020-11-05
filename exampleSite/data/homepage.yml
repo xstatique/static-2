@@ -34,7 +34,7 @@ feature:
     content: Wir beobachten die Flüge im Falle von Verspätungen und sind pünktlich
       da, um Sie nicht warten zu lassen.
   - name: Anti-Covid Maßnahmen
-    icon: ti-cloud-up
+    icon: ti-shield
     content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert. '
 service:
   enable: true
