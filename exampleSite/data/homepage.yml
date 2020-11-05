@@ -103,5 +103,5 @@ call_to_action:
     Keine Verpflichtungen, Sie können die Reservierung bis zu vor 24 Stunden vor Anreise kostenlost kündigen.
   button:
     enable: true
-    label: Contact Us
+    label: Jetzt Buchen
     link: contact
