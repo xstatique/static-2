@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Häufig gestellte Fragen
 subtitle: ''
 description: This is meta description
 
