@@ -35,7 +35,8 @@ feature:
       da, um Sie nicht warten zu lassen.
   - name: Anti-Covid Maßnahmen
     icon: ti-shield
-    content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert. '
+    content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert;
+      unsere Mitarbeiter tragen Masken. '
 service:
   enable: true
   service_item:
