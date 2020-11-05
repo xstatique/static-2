@@ -18,15 +18,15 @@ feature:
     icon: ti-pulse
     content: Ihre Reservierung können Sie bis zu 24 Stunden vor Anreise kostenfrei
       stornieren.
-  - name: Object Oriented
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
+  - name: Langjährige Erfahrung
+    icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Online oder Barzahlung
+    icon: ti-credit-card
+    content: Ganz bequem und sicher online bezahlen oder auch mit Bargeld vor Ort
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
