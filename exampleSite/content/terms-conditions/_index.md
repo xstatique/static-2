@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: AGB
 subtitle: ''
 description: This is meta description
 
