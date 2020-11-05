@@ -2,9 +2,10 @@
 banner:
   title: Fliegen Sie in Urlaub? <br> Machen Sie eine Geschäftsreise?
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: |-
+    Bei uns können Sie Ihr Auto Parken. <br>
+    Wir fahren Sie dann zum Flughafen und holen Sie auch wieder ab. <br>
+    Ganz bequem, ganz billig, ganz einfach.
   button:
     enable: true
     label: Buchen Sie Jetzt Einen Parkplatz!
