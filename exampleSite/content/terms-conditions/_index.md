@@ -2,6 +2,10 @@
 title: AGB
 subtitle: ''
 description: This is meta description
+menu:
+  support:
+    URL: terms-conditions
+    weight: 2
 
 ---
 # Allgemeine Geschäftsbedingungen der Firma MyPark&Fly24
