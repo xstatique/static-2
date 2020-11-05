@@ -57,10 +57,10 @@ service:
   - title: Sie parken Ihr Auto auf unserem Parkplatz
     images:
     - images/service-1.png
-    content: |-
-      Fahren Sie mit Ihrem Auto in Dieselstraße 29, Eching. <br>
-      Unser Personal zeigt Ihnen, wo Sie Ihr Auto parken können und hilft Ihnen beim Entladen Ihres Gepäcks. <br>
-      Sie übergeben Ihre Schlüssel, die in unseren Schließfächern sicher aufbewahrt werden.
+    content: Fahren Sie mit Ihrem Auto in Dieselstraße 29, Eching. Unser Personal
+      zeigt Ihnen, wo Sie Ihr Auto parken können und hilft Ihnen beim Entladen Ihres
+      Gepäcks. Sie übergeben Ihre Schlüssel, die in unseren Schließfächern sicher
+      aufbewahrt werden.
     button:
       enable: false
       label: Check it out
@@ -68,10 +68,9 @@ service:
   - title: Wir fahren Ihnen zum Flughafen
     images:
     - images/service-2.png
-    content: |-
-      Nachdem wir Ihr Gepäck geladen haben, fahren wir Sie mit unserem Shuttle zum Flughafen. <br>
-      Dies dauert ungefähr 15 Minuten und wir bringen Sie direkt vor Ihr Terminal. <br>
-      Wir wünschen Ihnen einen schönen Flug!
+    content: Nachdem wir Ihr Gepäck geladen haben, fahren wir Sie mit unserem Shuttle
+      zum Flughafen. Dies dauert ungefähr 15 Minuten und wir bringen Sie direkt vor
+      Ihr Terminal. Wir wünschen Ihnen einen schönen Flug!
     button:
       enable: false
       label: Check it out
