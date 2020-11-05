@@ -29,10 +29,10 @@ feature:
     icon: ti-headphone-alt
     content: Hat sich etwas unerwartet geändert? <br> Haben Sie Fragen? <br> Wir beraten
       Ihnen ganz persönlich.
-  - name: Dynamisch & Lösungsorientiert
+  - name: In der Nähe des Flughafens
     icon: ti-alarm-clock
-    content: Wir beobachten die Flüge im Falle von Verspätungen und sind pünktlich
-      da, um Sie nicht warten zu lassen.
+    content: Unser Parkplatz befindet sich ganz in der Nähe des Flughafens und der
+      Transfer zum Flughafen dauert nur 15 Minuten.
   - name: Anti-Covid Maßnahmen
     icon: ti-shield
     content: 'Unsere Büro und Transporter sind sauber und werden regelmäßig desinfektiert;
