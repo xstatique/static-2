@@ -100,7 +100,7 @@ call_to_action:
   image: images/cta.svg
   content: |-
     Füllen Sie das Buchungsformular aus und fertig! <br>
-    Keine Verpflichtungen, Sie können die Reservierung bis zu vor 24 Stunden vor Anreise kostenlost kündigen.
+    Keine Verpflichtungen, Sie können die Reservierung bis zu vor 24 Stunden vor Anreise kostenlos kündigen.
   button:
     enable: true
     label: Jetzt Buchen
