@@ -20,4 +20,15 @@ Unsere E-Mail-Adresse ist info@myparkandfly24.de
 
 {{< faq "Haben Sie auch Kindersitze für die Fahrt?" >}} Wir haben Sitzerhöhung, Kindersitz und auf Wunsch auch einen Maxi Cosi (Babyschale) für unsere jungen Passagiere parat. Wir bitten Sie dies bei Ihrer Buchung im Nachrichtenfeld entsprechend zu vermerken. {{</ faq >}}
 
-{{< faq "Was ist mit Sperrgepäck?" >}} Für den Transport von großem Sperrgepäck wie Surfbrettern, Hundeboxen oder Fahrradkoffern veranschlagen wir einen Aufpreis. Sie können Ihr Sperrgepäck alternativ auch vor Ihrer Anreise zu uns am Flughafen aufgeben bzw. bei der Rückankunft nach dem Shuttle Transport vom Flughafen abholen. {{</ faq >}}
+{{< faq "Wieviel Gepäck darf ich mitnehmen? Was ist mit Sperrgepäck?" >}}
+
+Ein Koffer sowie Handgepäck sind pro angemeldete Person inklusive. Weiteres Gepäck kannst du unter Sperrgepäck auswählen. Für den Transport von großem Sperrgepäck wie Surfbrettern, Hundeboxen oder Fahrradkoffern veranschlagen wir einen Aufpreis. Sie können Ihr Sperrgepäck alternativ auch vor Ihrer Anreise zu uns am Flughafen aufgeben bzw. bei der Rückankunft nach dem Shuttle Transport vom Flughafen abholen.
+
+{{</ faq >}}
+
+
+{{< faq "Meine Flugzeiten haben sich geändert. Wie kann ich meine Reservierung ändern?" >}}
+
+Derzeit ist es nicht möglich, Ihre Buchungsdaten in unserem Online-System zu ändern. Wenn Sie Ihre Buchungsdaten ändern oder aus irgendeinem Grund stornieren müssen, rufen Sie uns einfach an oder senden Sie eine E-Mail.
+
+{{</ faq >}}
