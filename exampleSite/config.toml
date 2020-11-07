@@ -10,53 +10,48 @@ title = "MyPark&Fly24"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "pricing"
-name = "Pricing"
-weight = 1
+URL = "#"
+name = "About Us"
 [[menu.company]]
 URL = "#"
 name = "Quick Start"
-weight = 2
 [[menu.company]]
-URL = "#"
-name = "About Us"
-weight = 3
+URL = "pricing"
+name = "Pricing"
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = 1
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
+URL = "faq"
+name = "FAQ"
+weight = 4
 [[menu.product]]
 URL = "pricing"
 name = "Pricing"
-weight = 3
-[[menu.product]]
-URL = "#"
-name = "Features"
-weight = 1
 [[menu.product]]
 URL = "#"
 name = "Platform"
-weight = 2
-[[menu.support]]
-URL = "faq"
-name = "FAQ"
-weight = 1
+[[menu.product]]
+URL = "#"
+name = "Features"
 [[menu.support]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 3
+[[menu.support]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.support]]
+URL = "faq"
+name = "FAQ"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -66,7 +61,7 @@ footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristiqu
 logo = "images/mpf24-logo.png"
 logo_width = "200px"
 [params.navigation_button]
-enable = false
+enable = true
 label = "Jetzt Buchen"
 link = "contact"
 [[params.plugins.css]]
