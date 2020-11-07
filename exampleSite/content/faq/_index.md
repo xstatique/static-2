@@ -32,3 +32,10 @@ Ein Koffer sowie Handgepäck sind pro angemeldete Person inklusive. Weiteres Gep
 Derzeit ist es nicht möglich, Ihre Buchungsdaten in unserem Online-System zu ändern. Wenn Sie Ihre Buchungsdaten ändern oder aus irgendeinem Grund stornieren müssen, rufen Sie uns einfach an oder senden Sie eine E-Mail.
 
 {{</ faq >}}
+
+{{< faq "Warum muss ich meine Autoschlüssel übergeben?" >}}
+
+Um unsere Raumnutzung zu optimieren, parken wir die Autos entsprechend ihrer Aufenthaltsdauer und müssen sie möglicherweise vorübergehend neu parken, wenn beispielsweise ein Kunde früher als erwartet zurückkehrt. Ihre Schlüssel werden sicher in Schließfächern aufbewahrt und Ihnen bei Ihrer Rückkehr zurückgegeben.
+
+{{</ faq >}}
+
