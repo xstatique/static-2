@@ -53,5 +53,10 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
+menu:
+  main:
+    URL: pricing
+    name: Preisliste
+    weight: 2
 
 ---

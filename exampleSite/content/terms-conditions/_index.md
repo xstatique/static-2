@@ -5,7 +5,7 @@ description: This is meta description
 menu:
   support:
     URL: terms-conditions
-    weight: 2
+    weight: 1
 
 ---
 ![](/images/agb-1.png)
