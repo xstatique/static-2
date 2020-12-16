@@ -54,9 +54,13 @@ call_to_action:
     label: Contact Us
     link: contact
 menu:
-  main:
+  company:
     URL: pricing
     name: Preisliste
-    weight: 2
+    weight: 1
+  main:
+    name: Preisliste
+    URL: pricing
+    weight: 1
 
 ---

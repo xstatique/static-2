@@ -9,41 +9,9 @@ theme = "bigspring"
 title = "MyPark&Fly24"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.company]]
-URL = "#"
-name = "About Us"
-weight = 3
-[[menu.company]]
-URL = "pricing"
-name = "Pricing"
-weight = 1
-[[menu.company]]
-URL = "#"
-name = "Quick Start"
-weight = 2
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.product]]
-URL = "pricing"
-name = "Pricing"
-weight = 3
-[[menu.product]]
-URL = "#"
-name = "Features"
-weight = 1
-[[menu.product]]
-URL = "#"
-name = "Platform"
 weight = 2
 [[menu.support]]
 URL = "faq"
